@@ -16,6 +16,7 @@ Building projects and solving algorithmic questions excites me a lot and I would
 1. [LinkedIn](https://www.linkedin.com/in/aakashpothepalli)
 2. [Github](https://github.com/aakashpothepalli)
 3. [Instagram](https://www.instagram.com/aakashpothepalli)
+4. [Personal Portfolio](https://aakashp.tk)
 
 ### Competitive Programming Handles
 
