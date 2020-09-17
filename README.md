@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Aakash. I am a student at MSRIT completing a degree in Computer Science and Engineering. 
+I am a student at MSRIT completing a degree in Computer Science and Engineering. 
 
 I have been developing apps and websites for around a year. Most of my experience lies in backend development. I have worked with HTML, CSS, JavaScript, Dart, C++  and a little bit of python.
 
