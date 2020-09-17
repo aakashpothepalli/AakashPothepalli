@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 My name is Aakash. I am a student at MSRIT completing a degree in Computer Science and Engineering. 
 
