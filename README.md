@@ -2,15 +2,17 @@
 
 I am a student at MSRIT pursuing a degree in Computer Science and Engineering. 
 
-I have been developing apps and websites for around a year. Most of my experience lies in backend development. I have worked with HTML, CSS, JavaScript, Dart, C++  and a little bit of python.
+I have been developing apps and websites for around a year and a half now. I have worked with HTML, CSS, JavaScript, Dart, C++ and a little bit of python.
 
-I like solving Algorithmic problems in my free time. I am active on competitive programming websites like Codechef and Codeforces.
+I like solving Algorithmic problems and I am active on competitive programming websites like Codechef and Codeforces.You can find the link to my competitive programming profiles at the bottom.
 
-I regularly participate in Hackathons and coding competitions. I am proud to say that I have secured 1st and 2nd position's in 4 contests in a year. 
+I regularly participate in Hackathons and coding competitions. I am proud to say that, in a year, my team and I have secured 1st and 2nd position's in 4 contests.
 
-I have worked on six projects with Flutter, react and Nodejs. Two of them are award-winning collaboratory projects by our team [Impractical Coders](https://github.com/teamimpracticalcoders/).
+I have worked on six projects with Flutter, react and Nodejs. Two of them are award-winning projects by our team [Impractical Coders](https://github.com/teamimpracticalcoders/).
 
-Building projects and solving algorithmic questions excites me a lot and I would really like to continue doing both.
+I am also a Core member of [Statefully Fidgeting](https://github.com/Statefully-Fidgeting). Recently my team and I have launched a game on playstore.If you're interested, here's the link [Tug Of War - A Witty Multiplayer Game ](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
+
+I'm really passionate about programming in general. I feel that programming is the greatest thing humanity has ever built.
 
 ### Social Media Handles
 1. [LinkedIn](https://www.linkedin.com/in/aakashpothepalli)
