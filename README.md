@@ -6,7 +6,7 @@ I have been developing apps and websites for around a year and a half now. I hav
 
 I like solving Algorithmic problems and I generally practice my CP skills on Codechef and Codeforces.. I enjoy participating in Hackathons and coding competitions. You can find the link to my competitive programming profiles at the bottom.
 
-I have worked on six projects with Flutter, react and Nodejs. Two of them are award-winning projects by our team [Impractical Coders](https://github.com/teamimpracticalcoders/).
+I have worked on six projects with Flutter, react and Nodejs. Two of them are award-winning projects by my team [Impractical Coders](https://github.com/teamimpracticalcoders/).
 
 I am also a Core member of [Statefully Fidgeting](https://github.com/Statefully-Fidgeting). Recently we launched a game on playstore. If you're interested, check out our game [Tug Of War - A Witty Multiplayer Game ](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
 
