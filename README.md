@@ -8,7 +8,7 @@ I like solving Algorithmic problems and I generally practice my CP skills on Cod
 
 I have worked on six projects with Flutter, react and Nodejs. Two of them are award-winning projects by my team [Impractical Coders](https://github.com/teamimpracticalcoders/).
 
-I am also a Core member of [Statefully Fidgeting](https://github.com/Statefully-Fidgeting). Recently we launched a game on playstore. If you're interested, check out [Tug Of War - A Witty Multiplayer Game ](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
+I am a Core member of [Google Developer Student Club - MSRIT](https://github.com/DSC-RIT) and [Statefully Fidgeting](https://github.com/Statefully-Fidgeting). Recently we launched a game on playstore. If you're interested, check out [Tug Of War - A Witty Multiplayer Game ](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
 
 I'm really passionate about programming in general. I feel that programming is the greatest thing humanity has ever built.
 
