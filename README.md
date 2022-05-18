@@ -7,6 +7,7 @@ Student at MSRIT pursuing a degree in Computer Science and Engineering.
 1. [LinkedIn](https://www.linkedin.com/in/aakashpothepalli)
 2. [Github](https://github.com/aakashpothepalli)
 3. [Instagram](https://www.instagram.com/aakashpothepalli)
+4. [Telegram](https://telegram.me/aakash9518)
 
 ### Competitive Programming Handles
 
