@@ -21,10 +21,9 @@ Currently a Core member of [GDSC-RIT](https://github.com/DSC-RIT)
 
 ### Competitive Programming Handles
 1. [Codechef](https://www.codechef.com/users/aakash9518)
-2. [HackerRank](https://www.hackerrank.com/aakashpothepalli)
-3. [Codeforces](https://codeforces.com/profile/Aakash9518)
-4. [SPOJ](https://www.spoj.com/users/aakash9518)
-5. [StopStalk](https://www.stopstalk.com/user/profile/aakash9518)
-6. [LeetCode](https://leetcode.com/aakashpothepalli/)
-7. [BinarySearch](https://binarysearch.com/@/aakash9518)
-
+2. [LeetCode](https://leetcode.com/aakashpothepalli/)
+3. [BinarySearch](https://binarysearch.com/@/aakash9518)
+4. [HackerRank](https://www.hackerrank.com/aakashpothepalli)
+5. [Codeforces](https://codeforces.com/profile/Aakash9518)
+6. [SPOJ](https://www.spoj.com/users/aakash9518)
+7. [StopStalk](https://www.stopstalk.com/user/profile/aakash9518)
