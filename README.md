@@ -11,10 +11,9 @@ Student at MSRIT pursuing a degree in Computer Science and Engineering.
 
 ### Competitive Programming Handles
 
-1. [Codechef](https://www.codechef.com/users/aakash9518).
-2. [HackerRank](https://www.hackerrank.com/aakashpothepalli).
-3. [Codeforces](https://codeforces.com/profile/Aakash9518).
-4. [SPOJ](https://www.spoj.com/users/aakash9518).
-5. [StopStalk](https://www.stopstalk.com/user/profile/aakash9518).
-
+1. [Codechef](https://www.codechef.com/users/aakash9518)
+2. [HackerRank](https://www.hackerrank.com/aakashpothepalli)
+3. [Codeforces](https://codeforces.com/profile/Aakash9518)
+4. [SPOJ](https://www.spoj.com/users/aakash9518)
+5. [StopStalk](https://www.stopstalk.com/user/profile/aakash9518)
 
