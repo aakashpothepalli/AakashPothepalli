@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 
 ### About me
 A student at MSRIT pursuing a degree in CS who likes learning new things :D 
