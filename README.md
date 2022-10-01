@@ -2,7 +2,8 @@
 
 ### About me
 A student at MSRIT pursuing a degree in CS who likes learning new things :D 
-Currently a Core member of @DSC-RIT 
+
+Currently a Core member of [GDSC-RIT](https://github.com/DSC-RIT) 
 
 ### Tech stack
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
