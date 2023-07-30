@@ -1,9 +1,7 @@
 ## Hello 👋
 
 ### About me
-A student pursuing a degree in CS who likes learning new things 💻🌐
-
-Currently a Core member of [GDSC-RIT](https://github.com/DSC-RIT) 
+I'm a Software Developer at Atlassian
 
 ### Tech stack
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
